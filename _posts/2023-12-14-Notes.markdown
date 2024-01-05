@@ -1,0 +1,63 @@
+---
+title: "Course Note-Taking"
+layout: page
+date: 2023-12-14 7:31
+tag: LaTeX
+projects: true
+hidden: true
+description: "A brief rundown of the notes that I have publicly shared with peers in upper-year courses (i.e., EECS, PHIL)."
+category: project
+author: shogz
+externalLink: false
+---
+<h1>Note Taking @ York</h1>
+<h2>Introduction</h2>
+The <strong>EECS-Notes GitHub Repository</strong> is a project that I started working on during the Winter 2023 semester. Originally, it was mostly used to share my programming solutions with the instructor of a fourth year cryptography course. Overtime, it has become a repository in which I share my midterm and/or exam review notes for challenging upper-year programming courses such as Operating Systems, Algorithms & Analysis, Database Systems, Human-Computer Interaction, and Machine Learning.
+<h2>Motivation</h2>
+ I like to share tutoring resources in order to facilitate growth in others. By doing so, and making such materials more accessible, it is my hope that students feeling overwhelmed by certain concepts can truly come to learn and enjoy the material. Lastly, it is my hope that by doing so, it inspires others to join an open-source movement in which they share their work with others to benefit the greatest amount of people.
+<h2>Course Notes</h2>
+The following is a non-exhaustive list. To view a sample version of the notes, please visit the corresponding GitHub repository.
+
+<!-- Machine Learning -->
+<div class="side-by-side">
+    <div class="toleft">
+        <p><strong>Machine Learning & Pattern Recognition (GS/EECS 5327): </strong>Machine learning is the study of algorithms that learn how to perform a task from prior experience. This course introduces the student to machine learning concepts and techniques applied to pattern recognition problems in a diversity of application areas. <strong>Sample notes can be obtained <a href = "https://www.overleaf.com/project/656694966fe5cad0eae543a6">here.</a></strong></p>
+    </div>
+
+    <div class="toright">
+        <img class="image" src="https://images.pexels.com/photos/17485706/pexels-photo-17485706/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-visualises-the-input-and-output-of-neural-networks-and-how-ai-systems-perceive-data-it-was-created-by-rose-pilkington.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Alt Text">
+    </div>
+</div>
+
+<!-- Human-Computer Interaction -->
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://images.pexels.com/photos/256262/pexels-photo-256262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+        <p><strong>Human-Computer Interaction (LE/EECS 4441): </strong> Introduces the concepts and technology necessary to design, manage and implement interactive software. Students work in small groups and learn how to design user interfaces, how to realize them and how to evaluate the end result. Both design and evaluation are emphasized. <strong>Sample notes can be obtained <a href = "https://github.com/stoyonaga/EECS-Notes/tree/main/EECS%204441">here.</a></strong></p>
+    </div>
+</div>
+
+<!-- Operating Systems -->
+<div class="side-by-side">
+    <div class="toleft">
+        <p><strong>Operating System Fundamentals (LE/EECS 3221): </strong>Principles of operating systems. Concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and security, and case studies. <strong>Sample notes can be obtained <a href = "https://github.com/stoyonaga/EECS-Notes/tree/main/EECS%203221">here.</a></strong></p>
+    </div>
+
+    <div class="toright">
+        <img class="image" src="https://images.pexels.com/photos/2582928/pexels-photo-2582928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Alt Text">
+    </div>
+</div>
+
+<!-- Mathematics of Cryptography -->
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://images.pexels.com/photos/7319085/pexels-photo-7319085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+        <p><strong>Mathematics of Cryptography (LE/EECS 4161): </strong>Probability, information theory and number theory and applications to cryptography. Classical codes such as Caesar shift, Vigenere, ADFGVX, rectangular substitution, and others. Other topics: comma free codes, perfect secrecy, index of coincidence, public key systems, primality testing and factorization algorithms. <strong>Sample notes can be obtained <a href = "https://github.com/stoyonaga/Cryptography">here.</a></strong></p>
+    </div>
+</div>
