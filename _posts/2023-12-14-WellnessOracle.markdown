@@ -29,6 +29,6 @@ externalLink: false
     <h2>Source Code & Paper</h2>
     <ol>
         <li>The training and testing data used to generate our models can be accessed <a href = "https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch">here</a>.</li>
-        <li>To obtain the source code (Google Colab) and written paper, please feel free to reach out to me!! :)</li>
+        <li>Our code can be found <a href = "https://github.com/stoyonaga/EECS5327_WellnessOracle">here</a>.</li>
     </ol>
 </div>
