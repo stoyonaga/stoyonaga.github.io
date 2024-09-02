@@ -33,6 +33,6 @@ In the past, I have worked on:
 <h2>Service</h2>
 Throughout my time at York University, I have created publicly available course notes and volunteered as a Peer Helper to assist incoming students in acclimating to the new workload. 
 
-Additionally, as a Graduate student, I have created tutorial videos under the Persuasive Design Lab to help incoming researchers understand the process of completing a PRISMA-based systematic reviews with tools for calculating Cohen Kappa scores and generating the Title, Abstract, Keyword excel sheets.
+Additionally, as a Graduate student, I have created tutorial videos under the Persuasive Design Lab to help incoming researchers understand the process of completing PRISMA-based systematic reviews with tools for calculating Cohen Kappa scores and generating the Title, Abstract, Keyword excel sheets.
 
 Lastly, I have had the privilege of mentoring students through managing course projects, reviewing manuscripts for publication.
