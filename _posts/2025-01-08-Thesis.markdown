@@ -14,7 +14,7 @@ externalLink: false
 
 <div class="side-by-side">
     <div class="toleft">
-        <p>Physical inactivity among the global population has warranted substantial concern in recent times. In 2020, the World Health Organization (WHO) announced that approximately 28% of adults and 81% of children were living sedentary lifestyles that could lead to chronic obesity. A wealth of literature demonstrates that long-term obesity increases risk factors related to increased mortality via cardiovascular, pulmonary, and cognitive diseases / decline.</p>
+        <p>Physical inactivity among the global population has warranted substantial concern in recent times. In 2020, the World Health Organization (WHO) announced that approximately 28% of adults and 81% of children were living sedentary lifestyles which could lead to chronic obesity. A wealth of literature demonstrates that long-term obesity increases risk factors related to increased mortality via cardiovascular, pulmonary, and cognitive diseases / decline.</p>
         <p>Existing interventions such as mobile apps and fitness centers have been shown to be ineffective due to a one-size fits-all approach and ad hoc design principles. Furthermore, there are barriers related to location, accessibility, and a high cost of entry.</p>
         <p>My research proposes to use classical machine learning, generative artificial intelligence (LLMs), and explainability to build trust-worthy tools that can generate persuasive, tailored fitness plans in real-time.</p>
     </div>
