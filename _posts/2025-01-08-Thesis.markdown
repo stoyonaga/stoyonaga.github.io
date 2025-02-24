@@ -5,12 +5,12 @@ date: 2025-01-08 19:41
 tag: Machine Learning
 projects: true
 hidden: true
-description: "Fitness-based Recommender Systems for Reducign Sedentary Behaviour"
+description: "Fitness-based Recommender Systems for Reducing Sedentary Behaviour"
 category: project
 author: shogz
 externalLink: false
 ---
-<h1>Fitness-based Recommender Systems for Reducign Sedentary Behaviour</h1>
+<h1>Fitness-based Recommender Systems for Reducing Sedentary Behaviour</h1>
 
 <div class="side-by-side">
     <div class="toleft">
