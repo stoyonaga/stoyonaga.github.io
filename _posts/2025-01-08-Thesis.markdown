@@ -21,6 +21,7 @@ externalLink: false
     <div class="toright">
         <img class="image" src="https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Alt Text">
     </div>
-    <p><strong>Note:</strong> Technical details will be made available upon publication of my Thesis and conference/journal submissions.</p>
+    <h2>Conference Presentation</h2>
+    <iframe width="560" height="310" src="https://www.youtube.com/embed/asC_3Q7jVKs?si=WtU0ZU3ycEahudwI" frameborder="0" allowfullscreen></iframe>
 </div>
 

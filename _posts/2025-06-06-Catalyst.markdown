@@ -1,0 +1,28 @@
+---
+title: "Virtual Bridge for Neurodivergent Students: Revolutionizing the Secondary-Tertiary Transition"
+layout: page
+date: 2025-06-06 12:10
+tag: Machine Learning
+projects: true
+hidden: true
+description: "Virtual Bridge for Neurodivergent Students: Revolutionizing the Secondary-Tertiary Transition"
+category: project
+author: shogz
+externalLink: false
+---
+<h1>Virtual Bridge for Neurodivergent Students: Revolutionizing the Secondary-Tertiary Transition</h1>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <p>Neurodivergent students have among the worst attrition and graduation rates in higher education institutions despite their strengths in strong memory, technological competency, and work ethic. Curriculum's are often designed for the, "average learner", and faculty members are not trained to properly accommodate diverse and interconnected learning differences which leads to poor academic performance. Furthermore, existing transition supports are demonstrably inaccessible (e.g., understaffed, too expensive) and ineffective, often utilizing a broad one-size-fits-all approach such as offering extra time on assignments and tests.</p>
+        <p>This project aims to (1) understand the phenomenological experiences of neurodivergent students in academia, and (2) co-design, develop, and evaluate a multimodal transparent and trustworthy AI-empowered chatbot which aims to help neurodivergent students with executive functioning and emotional regulation.</p>
+        <p>Executive functioning challenges include time management, organization, task initiation, and planning, while emotional regulation refers to managing anxiety, stress, and emotional responses to academic demands and sensory stimuli.</p>
+        <p>By having access to this tool, students can effectively unmask and receive 24/7 supportive and non-judgmental mentorship, guidance, and support for organizing and managing their time.</p>
+    </div>
+    <div class="toright">
+        <img class="image" src="https://images.pexels.com/photos/8385814/pexels-photo-8385814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Alt Text">
+    </div>
+    <h2>Technical Details</h2>
+    <p><strong>Note:</strong> Technical details will be made available upon publication of this work into a conference/journal. Feel free to send me an e-mail if you are really interested :)</p>
+</div>
+
